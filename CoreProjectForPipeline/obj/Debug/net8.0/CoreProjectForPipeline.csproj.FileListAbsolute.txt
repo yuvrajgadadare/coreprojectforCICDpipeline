@@ -32,3 +32,4 @@ E:\DevOps at 10PM\DotNet\CoreProjectForPipeline\CoreProjectForPipeline\obj\Debug
 E:\DevOps at 10PM\DotNet\CoreProjectForPipeline\CoreProjectForPipeline\obj\Debug\net8.0\CoreProjectForPipeline.pdb
 E:\DevOps at 10PM\DotNet\CoreProjectForPipeline\CoreProjectForPipeline\obj\Debug\net8.0\CoreProjectForPipeline.genruntimeconfig.cache
 E:\DevOps at 10PM\DotNet\CoreProjectForPipeline\CoreProjectForPipeline\obj\Debug\net8.0\ref\CoreProjectForPipeline.dll
+E:\DevOps at 10PM\DotNet\CoreProjectForPipeline\CoreProjectForPipeline\obj\Debug\net8.0\CoreProjectForPipeline.sourcelink.json
